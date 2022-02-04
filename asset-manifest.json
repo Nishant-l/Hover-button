@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hover-button/static/css/main.aa4792a1.css",
+    "main.js": "/Hover-button/static/js/main.4289cda1.js",
+    "index.html": "/Hover-button/index.html",
+    "main.aa4792a1.css.map": "/Hover-button/static/css/main.aa4792a1.css.map",
+    "main.4289cda1.js.map": "/Hover-button/static/js/main.4289cda1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa4792a1.css",
+    "static/js/main.4289cda1.js"
+  ]
+}
