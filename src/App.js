@@ -1,11 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
 import Popular from './components/Popular';
 
 function App() {
   return (
     <div className="App">
-        <Popular list={['apple','orange','grapes','pineapple']}/>
+      {/* pass list to be rendered as props */}
+        <Popular list={['apple','orange','grapes','pineapple']}/> 
     </div>
   );
 }
